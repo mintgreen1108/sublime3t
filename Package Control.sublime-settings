@@ -1,0 +1,24 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Alignment",
+		"All Autocomplete",
+		"AutoFileName",
+		"BracketHighlighter",
+		"CTags",
+		"DocBlockr",
+		"MarkdownEditing",
+		"Material Theme",
+		"Monocyanide Colorscheme",
+		"Package Control",
+		"SideBarEnhancements",
+		"sublime-github",
+		"SublimeLinter",
+		"Themr"
+	]
+}
